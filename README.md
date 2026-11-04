@@ -1,32 +1,23 @@
 # Anicet Barrios
 
-**ML / Robotics Engineer** — computer vision, embedded systems, and autonomous robotics, with an interest in advanced manufacturing and real-world deployment.
+**Embodied AI, Robotics & Mechatronics Engineer** · Shanghai, China
 
-MSc Electronic Information @ Shanghai University (dual-degree with UTC, France) · based in Shanghai · FR/EN native, 中文 HSK3.
-
-I work on perception-to-action pipelines: YOLO-based crack and defect detection on real drone-captured construction imagery, plus autonomous-robot and manufacturing digital-twin prototypes.
-
----
+- **Embodied Intelligence Robotics Laboratory (Shanghai University)** · Bimanual imitation learning (`SO-ARM101`, `Hugging Face LeRobot`, `ACT`, `VLA`) and sim-to-real reinforcement learning (`NVIDIA Isaac Lab`).
+- **Education** · M.Eng. in Electronic Information & Cyber-Physical Systems (**Shanghai University, UTSEUS**) · *Diplôme d'Ingénieur* (M.Sc.) in Mechatronics & Robotics (**UTC Compiègne**, `MARS`).
+- **Previous R&D** · 2D/3D Computer Vision for structural inspection (**SSHMC Lab, DGUT**) · Industrial robotics, AMRs & digital twins (**McNair Aerospace Center, University of South Carolina**).
 
 ### Publications
 
-- **Crack-depth measurement & 3D reconstruction for concrete structures: a review** — *AIAC 2025 / IEEE Xplore* · first author. [paper](https://ieeexplore.ieee.org/document/11332509)
-- **FMOE-YOLO: Fourier Mixture-of-Experts YOLO for multi-class concrete crack segmentation** — *Automation in Construction*, Vol. 179 (2025) · Q1, IF 11.5 · co-author (3rd author). [journal](https://www.sciencedirect.com/science/article/abs/pii/S0926580525004923) · [open PDF](https://hal.science/hal-05119531)
-
-### Selected work
-
-- **YOLOv8 crack-detection pipeline** — multi-class concrete crack segmentation on drone-captured construction imagery, built during an R&D internship. → [`crack-detection-yolo`](https://github.com/aneysait/crack-detection-yolo)
-- **Chinese image OCR + translation** — tool that extracts Chinese text from images and translates it. → [`ChineseImageRecognitionandTranslation`](https://github.com/aneysait/ChineseImageRecognitionandTranslation)
-- **Prototypes & coursework** — Unity digital twin of a manufacturing cell; bi-modal drone/car robot; 4-wheel autonomous/RC robot.
-
-### Leadership
-
-- **President, UTC Robotics Club** — led a ~15-person team; competed in the French Robotics Cup; FabLab project management.
+- **CIRP Journal of Manufacturing Science and Technology (2026, Q1)** · *Circularity-based hybrid learning framework for disassembly sequence planning in early-stage design* (Q-Learning RL + GNN + GA) · [DOI: `10.1016/j.cirpj.2026.10.003`](https://doi.org/10.1016/j.cirpj.2026.10.003)
+- **Automation in Construction (2025, Q1, IF 11.5)** · *Fourier-Mixture of Experts YOLO for concrete crack segmentation with visual interpretability* · [DOI: `10.1016/j.autcon.2025.106452`](https://doi.org/10.1016/j.autcon.2025.106452) · [HAL PDF](https://hal.science/hal-05119531)
+- **IEEE AIAC (2025)** · *Crack depth measurement and 3D reconstruction for concrete structures: A review* (1st author) · [DOI: `10.1109/AIAC68175.2025.11332509`](https://doi.org/10.1109/AIAC68175.2025.11332509)
 
 ### Stack
 
-`Python` `C / C++` `MATLAB` `SQL` · PyTorch · YOLOv8 / OpenCV · Arduino · Raspberry Pi · ESP32 · PLC / TIA Portal · CAD/CAM · Tecnomatix Process Simulate · Unity
+- **Robot Learning & Simulation**: Hugging Face LeRobot, ACT, Diffusion Policy, VLA, NVIDIA Isaac Lab / Isaac Sim, MuJoCo, ROS 2
+- **Vision & ML**: PyTorch, YOLOv8, Graph Neural Networks (GNN), OpenCV, 3D Reconstruction (SfM, MVS, LiDAR, RGB-D), CUDA / Linux
+- **Mechatronics & Industrial**: Leader-Follower Teleoperation (`SO-ARM101`), Yaskawa & Aubo Arms, Siemens Process Simulate & TIA Portal (PLC), C++ / Python
 
-### Reach me
+---
 
-📫 anicet.resume@barrios.me
+[LinkedIn](https://www.linkedin.com/in/anicet-barrios/) · [Google Scholar](https://scholar.google.com/citations?user=da52F7cAAAAJ) · [ORCID](https://orcid.org/0009-0009-2382-6412) · [`anicet.github@barrios.me`](mailto:anicet.github@barrios.me)
