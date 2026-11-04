@@ -10,7 +10,7 @@
 
 - **CIRP Journal of Manufacturing Science and Technology (2026, Q1)** · *Circularity-based hybrid learning framework for disassembly sequence planning in early-stage design* (Q-Learning RL + GNN + GA) · [DOI: `10.1016/j.cirpj.2026.10.003`](https://doi.org/10.1016/j.cirpj.2026.10.003)
 - **Automation in Construction (2025, Q1, IF 11.5)** · *Fourier-Mixture of Experts YOLO for concrete crack segmentation with visual interpretability* · [DOI: `10.1016/j.autcon.2025.106452`](https://doi.org/10.1016/j.autcon.2025.106452) · [HAL PDF](https://hal.science/hal-05119531)
-- **IEEE AIAC (2025)** · *Crack depth measurement and 3D reconstruction for concrete structures: A review* (1st author) · [DOI: `10.1109/AIAC68175.2025.11332509`](https://doi.org/10.1016/j.autcon.2025.106452)
+- **IEEE AIAC (2025)** · *Crack depth measurement and 3D reconstruction for concrete structures: A review* (1st author) · [DOI: `10.1109/AIAC68175.2025.11332509`](https://doi.org/10.1109/AIAC68175.2025.11332509)
 
 ### Stack
 
